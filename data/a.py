@@ -1,0 +1,1 @@
+print('sdfasdf'+str(10)+'asfdasdfasf');
