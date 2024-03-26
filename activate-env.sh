@@ -1,0 +1,1 @@
+conda activate /home/khanh/apps/thesis-env
